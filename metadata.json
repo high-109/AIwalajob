@@ -1,0 +1,8 @@
+{
+  "name": "AI Job Explorer",
+  "description": "A premium AI job portal featuring intelligent job analysis, real-time filtering, and a modern interface inspired by top-tier hiring platforms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
